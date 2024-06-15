@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Food Ordering Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I am currently working on a self-initiated project to build a food-ordering website for a restaurant. This project involves the full development cycle, from designing the user interface to implementing the backend functionalities. Through this project, I am gaining valuable hands-on experience in web development, including front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies such as Python and SQL. This endeavor is enhancing my understanding of practical software development and my ability to deliver a complete, functional product.",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Loan Risk Predicition",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project predicts loan default risk using machine learning, involving data exploration, feature engineering, and model building with algorithms like XGBoost. The results, including key insights and model performance, are compiled into a detailed PDF report to aid in informed lending decisions.",
+    url: "",
   },
   {
     title: "My Resume Site",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Quiz Application",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The quiz app, built with Next.js and deployed on Vercel, features multiple-choice questions, full-screen mode enforcement, and a 10-minute timer, with state persistence using localStorage for a seamless user experience.",
+    url: "",
   },
 ];
 
